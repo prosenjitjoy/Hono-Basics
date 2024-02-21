@@ -1,2 +1,11 @@
-# TS-Web-Frameworks
-Collection of example code used for learning hono.js and elysia.js basics from documentations.
+# Hono-Basics
+Collection of example code used for learning hono.js basics from documentations.
+
+```
+npm install
+npm run start
+```
+
+```
+open http://localhost:3000
+```
